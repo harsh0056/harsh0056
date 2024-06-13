@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harsh0056
-- 👀 I’m interested in Web development and problem Solving In General
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on any good and project that includes newer Tech
+- 👋 Hi, My Name is Harsh
+- 👀 I’m interested in Web development, Software Development and problem Solving In General
+- 🌱 I currently have more than 3 Years of experience with JAVA, NodeJs, Reactjs and other technologies
+- 💞️ I’m looking to collaborate on any good and project that includes newest Tech
 - 📫 How to reach me harsh.swami0@gmail.com
 
 <!---
